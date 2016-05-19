@@ -27,6 +27,6 @@
 		or to specify a relative path, e.g.:
 		<xsl:param name="filePrefix" select="'http://dcl.slis.indiana.edu/teibp'"/>
 	-->
-    <xsl:param name="filePrefix" select="'..'"/>
+    <xsl:param name="filePrefix" select="'https://rawgit.com/tillgrallert/mods-boilerplate/online'"/>
     <xsl:param name="modsbpCSS" select="concat($filePrefix, '/css/mods-bp.css')"/>
 </xsl:stylesheet>
