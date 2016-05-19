@@ -16,14 +16,14 @@ The display is built around modular css files that are all loaded through a cent
 
 The code can either be used by downloading / cloning the repository and integrating it into one's own project or by simply linking `xslt-boilerplate/teibp.xsl` of this repository in the head of one's XML files. 
 
-There are three variants, each in its own branch:
+There are two variants, each in its own branch:
 
 ## 1. master
 
 This branch is meant to be installed as part of the project it is used to render. All links to files are relative links only.
 
 ~~~{.xml}
-<?xml-stylesheet type="text/xsl" href="https://rawgit.com/tillgrallert/mods-boilerplate/online/xslt-boilerplate/mods-bp.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://rawgit.com/tillgrallert/mods-boilerplate/master/xslt-boilerplate/mods-bp.xsl"?>
 ~~~
 
 ## 2. online
