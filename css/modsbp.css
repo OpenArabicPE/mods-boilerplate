@@ -1,16 +1,9 @@
 /* Place project-specific CSS here */
 
-/*@import "teibp-navigation.css";*/
-@import "mods-bp_arabic.css";
-/*@import "teibp-toolbox.css";*/
-@import "mods-bp_mods-elements.css";
-@import "mods-bp_links.css";
-/*@import "teibp-heads-light.css";*/
-/*@import "teibp-sidebar-buttons.css";*/
-/* teibp-facsimile.css toggles the two-column view with a large facsimile displayed to the left of the text */
-/*@import "teibp-facsimile.css";*/
-/*@import "teibp-masthead.css";*/
-@import "fonts-amiri.css";
+@import "modsbp_arabic.css";
+@import "modsbp_mods-elements.css";
+@import "modsbp_links.css";
+@import "fonts_amiri.css";
 
 
 
