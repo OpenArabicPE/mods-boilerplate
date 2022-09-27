@@ -7,7 +7,7 @@ date: 2016-05-19 10:31:19 +0300
 
 MODS Boilerplate provides a first display of MODS XML files in the browser based on XSLT 1 and without need for pre-processed HTML. For a first impression see the [example file in this repository](https://rawgit.com/tillgrallert/mods-boilerplate/master/example/oclc_4770057679-v_5-bibl.MODS.xml).
 
-The code has been developed in the context of the [Digital Muqtabas](https://github.com/tillgrallert/digital-muqtabas), [Digital Ḥaqāʾiq](https://github.com/tillgrallert/digital-haqaiq) and [Digital Manār](https://github.com/tillgrallert/digital-manar) projects.
+The code has been developed in the context of the [Digital Muqtabas](https://github.com/openarabicpe/journal_al-muqtabas), [Digital Ḥaqāʾiq](https://github.com/openarabicpe/journal_al-haqaiq) and [Digital Manār](https://github.com/openarabicpe/journal_al-manar) projects.
 
 The display is built around modular css files that are all loaded through a central call to `custom.css`.
 
